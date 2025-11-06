@@ -2,6 +2,10 @@
 
 This is my cs220 test.
 
+## Cool feature
+
+This is my cool feature
+
 ## A Level 2 heading
 
 Favorite Icecream
@@ -9,7 +13,7 @@ Favorite Icecream
 * Chocolate
 * Vanilla
 
-## B Level 2heading
+## B Level 2 heading
 
 Ordered list
 1. abc
